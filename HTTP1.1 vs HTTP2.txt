@@ -1,0 +1,20 @@
+    HTTP 
+        -stands for hypertext transfer protocol, and it is the basis for almost all web applications.
+        -It is the method in which computers and servers use to request and send information.
+        -The first usable version of HTTP was created in 1997. Because it went through several stages of development,
+         this first version of HTTP was called HTTP/1.1.
+        -In 2015, a new version of HTTP called HTTP/2 was created.
+
+    HTTP/1.1
+       -Developed by Timothy Berners-Lee in 1989 as a communication standard for the World Wide Web.
+
+    HTTP/2
+       -HTTP/2 began as the SPDY protocol, developed primarily at Google with the intention of reducing web page load latency
+         by using techniques such as compression, multiplexing, and prioritization.
+
+    Avantages of HTTP/2.0 OVER HTTP/1.1
+        - HTTP/2.0 is much faster and efficient than HTTP/1.1
+        - HTTP/2.0 solves several problems comparing HTTP/1.1
+        - The reason in which HTTP/2.0 is faster because it prioritizes contents during the loading process 
+        - The real difference between HTTP/1.1 and HTTP/2 comes with server push in which HTTP/2.0 uses only one TCP where as  
+          HTTP/1.1 uses two TCP . This mechanism decreases the server work load in HTTP/2.0

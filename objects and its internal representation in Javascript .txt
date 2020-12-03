@@ -1,0 +1,8 @@
+Objects and its internal representation in Javascript:
+
+  -Objects in javascript is an important datatype and are more complex.
+  -Each object may contain any combination of these primitive data-types as well as reference data-types. 
+  -An object, is a reference data type that is the variables don’t actually store the value. 
+  -Variables that are assigned a reference value are given a reference or a pointer to that value.
+  -That reference or pointer points to the location in memory where the object is stored. 
+  

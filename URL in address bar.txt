@@ -1,0 +1,12 @@
+  When you enter a URL in address barand click Enter,the browser looks up the IP address for the domain name through DNS. 
+  The browser initiates a TCP connection with the server. 
+  The browser sends a HTTP request to the server.
+  The server sends back a HTTP response.
+  The browser displays the HTML content.
+
+
+
+
+
+
+

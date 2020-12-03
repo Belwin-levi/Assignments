@@ -1,0 +1,9 @@
+Composite Data Types 
+
+     -Objects, Array and Function (which are all types of objects) are composite data types.
+     -In case of composite data type,variable holds reference that is address of that particular value in memory.
+ 
+For example :
+     var A=[10,20];
+     
+        In the above case, the variable A doesn't hold the value 10 and 20 but it holds the address of the value.

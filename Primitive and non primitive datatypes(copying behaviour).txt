@@ -1,0 +1,17 @@
+Difference in behaviour for copying contents in primitive and non primitive datatypes:
+  
+    -Inorder to understand the difference in behaviourfor copying contents in primitive and non primitive datatypes, we need to understand the datatypes first.
+    -In javascript,the data types are categorized into three main types 
+           1.Primitive
+           2.Trivial
+           3.Composite
+
+    -The primitive data types are Numbers, Boolean and String. 
+    -The trivial data types include null and undefined, 
+    -whereas the composite data types involve objects such as arrays, methods/functions, etc.
+
+     -The primitive data types when copied to another variable,uses “copy by value” whereas non-primitive data types (objects) 
+       when copied to another variable, uses “copy by reference”.
+   
+    Hence,the difference in behaviour for copying contents in primitive and non primitive types is due to copy by value and 
+    coby by reference.
